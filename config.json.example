@@ -1,0 +1,14 @@
+{
+  "participant_name": "Nome do Participante",
+  "num_tabs": 3,
+  "vote_url": "https://gshow.globo.com/realities/bbb/bbb-26/voto-da-torcida/votacao/voto-da-torcida-quem-voce-quer-eliminar-do-bbb-26-XXXXX.ghtml",
+  "headless": false,
+  "captcha_timeout": 300,
+  "captcha_mode": "auto",
+  "max_votes_per_tab": -1,
+  "delay_between_votes": {
+    "min": 2,
+    "max": 5
+  }
+}
+

@@ -1,0 +1,41 @@
+{
+  "total_historico": 150,
+  "ultima_atualizacao": "2026-02-03 20:30:45",
+  "estatisticas_gerais": {
+    "total_votos_historico": 150,
+    "total_sessoes": 3,
+    "votos_na_sessao_atual": 25,
+    "votos_por_aba_atual": [5, 5, 5, 5, 5],
+    "total_votos_atual": 150
+  },
+  "sessoes": [
+    {
+      "data_inicio": "2026-02-03 18:00:00",
+      "data_fim": "2026-02-03 18:30:00",
+      "votos_na_sessao": 50,
+      "votos_por_aba": [10, 10, 10, 10, 10],
+      "total_ao_final": 50,
+      "participante": "Leandro",
+      "numero_abas": 5
+    },
+    {
+      "data_inicio": "2026-02-03 19:00:00",
+      "data_fim": "2026-02-03 19:45:00",
+      "votos_na_sessao": 75,
+      "votos_por_aba": [15, 15, 15, 15, 15],
+      "total_ao_final": 125,
+      "participante": "Leandro",
+      "numero_abas": 5
+    },
+    {
+      "data_inicio": "2026-02-03 20:00:00",
+      "data_fim": "2026-02-03 20:30:45",
+      "votos_na_sessao": 25,
+      "votos_por_aba": [5, 5, 5, 5, 5],
+      "total_ao_final": 150,
+      "participante": "Leandro",
+      "numero_abas": 5
+    }
+  ]
+}
+

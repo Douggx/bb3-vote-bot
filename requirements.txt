@@ -1,0 +1,7 @@
+playwright
+keyboard
+pillow
+opencv-python
+numpy
+scikit-learn
+
